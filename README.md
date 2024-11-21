@@ -21,14 +21,14 @@ Open CRM 365 brings you all the essential features of a modern CRM without the h
 
 If you're a small or medium-sized business seeking to boost customer relationships, streamline sales, and grow without the financial commitment of larger platforms, Open CRM 365 is for you!
 
-## How to SETUP
+## How to install
 
-*1 - Import  [ChoicesStages_1_0_0_2_managed.zip](./solutions/ChoicesStages_1_0_0_2_managed.zip)
-*2 - Import [FluentUISliderPCF_1_0_0_8_managed.zip](./solutions/FluentUISliderPCF_1_0_0_8_managed.zip)
-*3 - Import [IconOptionSetPCF_1_0_6_1_managed.zip](./solutions/IconOptionSetPCF_1_0_6_1_managed.zip)
-*4 - Import [IconTwoOptionPCF_1_0_4_4_managed.zip](./solutions/IconTwoOptionPCF_1_0_4_4_managed.zip)
-*5 - Import [ModernDropzone.zip](./solutions/ModernDropzone.zip)
-*6 - Import [PowerDragDrop_managed_1_1_0.zip](./solutions/PowerDragDrop_managed_1_1_0.zip)
-*7 - Import [ShortcutButtonsSolution.zip](./solutions/ShortcutButtonsSolution.zip)
-*8 - Import the latest Open CRM 365 solution files (.zip) from [Release](https://github.com/PowerBuildersItalia/opencrm365/releases/) of this repository.
+1. Import  [ChoicesStages_1_0_0_2_managed.zip](./solutions/ChoicesStages_1_0_0_2_managed.zip)
+2. Import [FluentUISliderPCF_1_0_0_8_managed.zip](./solutions/FluentUISliderPCF_1_0_0_8_managed.zip)
+3. Import [IconOptionSetPCF_1_0_6_1_managed.zip](./solutions/IconOptionSetPCF_1_0_6_1_managed.zip)
+4. Import [IconTwoOptionPCF_1_0_4_4_managed.zip](./solutions/IconTwoOptionPCF_1_0_4_4_managed.zip)
+5. Import [ModernDropzone.zip](./solutions/ModernDropzone.zip)
+6. Import [PowerDragDrop_managed_1_1_0.zip](./solutions/PowerDragDrop_managed_1_1_0.zip)
+7. Import [ShortcutButtonsSolution.zip](./solutions/ShortcutButtonsSolution.zip)
+8. Import the latest Open CRM 365 solution files (.zip) from [Release](https://github.com/PowerBuildersItalia/opencrm365/releases/) of this repository.
 
